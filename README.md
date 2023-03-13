@@ -16,3 +16,6 @@ Extras: React-To-Print
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## Sneak  Peek of Home Page 🙈 :
+
+![image](https://user-images.githubusercontent.com/86340981/224733709-dcb04578-993e-43f4-9182-ef919dde0caa.png)
+![image](https://user-images.githubusercontent.com/86340981/224733756-11c32186-85be-4a6f-93de-93e153bb6c89.png)
